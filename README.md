@@ -1,16 +1,26 @@
-## Hi there 👋
+### I (Me)
 
-<!--
-**0xLambdaExpr/0xLambdaExpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HELLO<
 
-Here are some ideas to get you started:
+Fluent in Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+15
+
+Certified eJPT, CompTIA+, soon OSCP.
+
+
+
+### My Non-existent statistics
+
+
+<div id="badges">
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=0xLambdaExpr&style=flat-square&color=blue" alt=""/>
+</div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0xLambdaExpr&theme=bear&background=000000)](https://git.io/streak-stats)
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xLambdaExpr&count_private=true&theme=bear&langs_count=7" /> 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xLambdaExpr&count_private=true&theme=bear" />  
